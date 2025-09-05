@@ -92,6 +92,7 @@ Vaishnavi T (Backend )
 - *Firestore Database* – Store user profiles, app data, and content.
 - *Realtime Sync* – Live updates between frontend and backend.
 - *Firebase Connections* – Integrating the app with Firebase services.
+- *GitHub Repository* – Source code management, collaboration, and version tracking.
 
 S. Vaishnavi Sree (Backend)
 - *US Data Management* – Backend logic to fetch and manage US-specific data for states.
