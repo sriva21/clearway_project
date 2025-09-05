@@ -67,6 +67,18 @@ ClearWay provides domain-specific guidance (legal, finance, driving, cultural, a
 ### Edit user page:
 ![Images/4.jpg](Images/4.jpg)
 
+## Tech flow
+### 💻 Tech Stack
+- *Frontend*: Flutter,Dart
+- *Backend*: Firebase(with tools) 
+- *Database*: Firbase(database),JSON format
+- *Authentication*: Firebase  
+- *Other Tools*: NodeJS, GitHub for version control
+
+### Contributions:
+
+
+
 
 
 
