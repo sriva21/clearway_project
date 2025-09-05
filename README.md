@@ -2,11 +2,11 @@
 ClearWay provides domain-specific guidance (legal, finance, driving, cultural, and practical) for individuals traveling or moving to new locations. With multilingual support and a simple interface, the app makes it easy for users to understand and follow local rules and policies.
 
 ## Team members
-  1.Saraf Vaishnavi sree  -  cs24b051
-  2.Maddi Sri Varshini    -  cs24b021
-  3.Burrem Nandini Goud   -  cs24b008
-  4.T.Vyshnavi 
-  5.tharsha sri
+  Saraf Vaishnavi Sree  -  cs24b051
+  Maddi Sri Varshini    -  cs24b021
+  Burrem Nandini Goud   -  cs24b008
+  Thaduri Vaishnavi     -  cs24b047
+  Meda Tharsha Sri      -  cs24b024
 
   ## Features
 ### ->  📱 Onboarding : Simple sign-up/login process with preferred language selection. 
@@ -38,9 +38,41 @@ ClearWay provides domain-specific guidance (legal, finance, driving, cultural, a
 7. *Category Pages* → Each category → subcategories (e.g., Legal → Visa, Documents, Banking, Taxes).  
 8. *State-Specific Guidance* → Subcategory displays differences in rules between origin and destination states.
 
+## Images
+
 ### App Logo:
 ![Images/logo.jpg](Images/logo.jpg)
+
 ### Get Started:
+![Images/8.jpg](Images/8.jpg)
+
+### SignUp page:
+![Images/1.jpg](Images/1.jpg)
+
+### Login page:
+![Images/3.jpg](Images/3.jpg)
+
+### Home page:
+![Images/2.jpg](Images/2.jpg)
+
+### Sub pages:
+![Images/5.jpg](Images/5.jpg)
+
+### Sub page(including translations):
+![Images/7.jpg](Images/7.jpg)
+
+### Rules card:
+![Images/6.jpg](Images/6.jpg)
+
+### Edit user page:
+![Images/4.jpg](Images/4.jpg)
+
+
+
+
+
+
+
 
 
   
