@@ -76,6 +76,50 @@ ClearWay provides domain-specific guidance (legal, finance, driving, cultural, a
 - *Other Tools*: NodeJS, GitHub for version control
 
 ### Contributions:
+Tharsha (front-end):
+- *Splash / Logo Page* – Designed an attractive splash screen with branding .
+- *Signup Page*– Built a user-friendly account creation interface with clear input fields and validations.
+- *Login Page* – Developed a clean login screen with intuitive navigation and secure input handling.
+- *Main Dashboard* – Created a centralized dashboard for easy access to key features and user data.
+- *Subpages / Modules* – Designed consistent layouts for feature pages, maintaining cohesive UI/UX.
+- *Voice Search* – (signup page)Implemented front-end support for voice commands with responsive UI elements.
+
+Vaishnavi T (Backend )
+- *User Authentication* – Backend logic for Signup/Login, validation, secure passwords.
+- *Main Page & Subpages* – Backend connections for loading content and navigation.
+- *Translation Service* – Worked on Google Translator API integration.
+- *Firebase Authentication* – Signup/Login/Password management.
+- *Firestore Database* – Store user profiles, app data, and content.
+- *Realtime Sync* – Live updates between frontend and backend.
+- *Firebase Connections* – Integrating the app with Firebase services.
+
+S. Vaishnavi Sree (Backend)
+- *US Data Management* – Backend logic to fetch and manage US-specific data for states.
+- *JSON File Creation* – Collected and structured US data into JSON format.
+- *Subpages Functionality* – Backend support for dynamically loading content and applying the UI format to all subpages.f
+- *GitHub Repository* - source code management, collaboration, and version tracking.
+- *Testing* – Backend testing to ensure proper functionality, data handling, and reliability of all modules.
+- *Firebase Connections* – Integrating the app with Firebase services.
+
+B. Nandini (Backend)
+- *India Data Management* – Backend logic to fetch and manage India-specific data for states.
+- *JSON File Creation* – Collected and structured India data into JSON format.
+- *Translation Service* – Integration with Google Translator API to provide real-time translation across app content.
+- *Subpages Functionality* – Backend for dynamically loading content and handling user interactions on all subpages.
+- *Firebase Connections* - Integrating the app with firebase services.
+- *README File* – Detailed project description, features, structure, and individual contributions.
+
+Varshini (Front-end)
+- *Get Started Page* – Introductory page guiding users when they first open the app.
+- *UI Cards for Subpages* – Designed and implemented UI cards for displaying rules of each domain in the application.
+- *Signup* -Developed signup functionality with username,password,email input fields with proper regexs including validation.
+- *Login Page* - Designed and implemented a secure and user-friendly login screen with validations.
+- *Testing* – Front-end testing to ensure proper layout, responsiveness, and user interactions.
+-	*GitHub Repository* – Source code management, collaboration, and version tracking.
+-	*README File* – Detailed project description, features, screenshots, and individual contributions.
+  
+## Overview
+Our application is designed to assist individuals migrating to new locations by providing clear and comprehensive information about the rules and regulations of their destination. The app collects details regarding both the origin and destination locations, enabling users to compare relevant laws, policies, and regulations side by side. A comparative table is displayed, highlighting the differences between the two regions to help users adapt seamlessly to their new environment.
 
 
 
